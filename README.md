@@ -1,2 +1,2 @@
 # clases
-Clases impartidas en la universidad
+Clases impartidas en la universidad UCSG
